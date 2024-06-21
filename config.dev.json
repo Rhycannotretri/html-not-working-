@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "thestrongestgojo@gmail.com",
-    "password": "456123789",
+    "email": "adrielkalbo72@gmail.com",
+    "password": "Minatokalbo123",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100079114908948",
+    "61560994627031",
     "",
     ""
   ],
@@ -26,11 +26,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Gab Yu",
-  "AGE": "14",
+  "OWNER": "Bns Rai",
+  "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "𝗚𝗼𝗷𝗼 | ☣️",
-  "FACEBOOK": "https://www.facebook.com/profile.php?id=100079114908948",
+  "nickNameBot": "Woduh | ☣️",
+  "FACEBOOK": "https://www.facebook.com/profile.php?id=61560994627031&mibextid=ZbWKwL",
   "prefix": "/",
   "database": {
     "type": "sqlite",
